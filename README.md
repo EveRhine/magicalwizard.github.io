@@ -1,2 +1,2 @@
-# magicalwizard.git.io
+# magicalwizard.github.io
 a blog
